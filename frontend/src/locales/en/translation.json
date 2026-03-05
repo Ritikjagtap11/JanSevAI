@@ -1,0 +1,48 @@
+{
+    "navbar": {
+        "fillForm": "Fill Form",
+        "language": "Language"
+    },
+    "home": {
+        "tagline": "Digital Saathi for Every Rural Maharashtra Citizen",
+        "onePortal": "One Portal",
+        "allSchemes": "All Schemes",
+        "maharashtraLanguage": "Maharashtra Language",
+        "exploreSchemes": "Explore Schemes"
+    },
+    "form": {
+        "title": "Citizen Form",
+        "step1Label": "STEP 1",
+        "clearForm": "Clear Form",
+        "checkScheme": "Check Scheme",
+        "fullName": "Full Name",
+        "dob": "Date of Birth",
+        "age": "Age",
+        "gender": "Gender",
+        "caste": "Caste / Category",
+        "annualIncome": "Annual Family Income (in Rs.)",
+        "occupation": "Occupation",
+        "maritalStatus": "Marital Status",
+        "disability": "Do you have any Disability?",
+        "disabilityPercentage": "Disability Percentage (%)",
+        "education": "Highest Education Qualification",
+        "documents": "Documents You Currently Have",
+        "minority": "Do you belong to a Minority Community?",
+        "placeholders": {
+            "fullName": "Enter your full name"
+        }
+    },
+    "result": {
+        "title": "Eligible Schemes",
+        "label": "YOUR RESULTS",
+        "applyNow": "Apply Now",
+        "department": "Department",
+        "benefitAmount": "Benefit Amount",
+        "benefitDescription": "Benefit Description",
+        "processMode": "Process Mode",
+        "documentsRequired": "Documents Required"
+    },
+    "footer": {
+        "innovators": "The Innovators Boys"
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "navbar": {
+        "fillForm": "फॉर्म भरें",
+        "language": "भाषा"
+    },
+    "home": {
+        "tagline": "हर ग्रामीण महाराष्ट्र नागरिक के लिए डिजिटल साथी",
+        "onePortal": "एक पोर्टल",
+        "allSchemes": "सभी योजनाएं",
+        "maharashtraLanguage": "महाराष्ट्र भाषा",
+        "exploreSchemes": "योजनाएं खोजें"
+    },
+    "form": {
+        "title": "नागरिक फॉर्म",
+        "step1Label": "चरण १",
+        "clearForm": "फॉर्म साफ करें",
+        "checkScheme": "योजना जांचें",
+        "fullName": "पूरा नाम",
+        "dob": "जन्म तिथि",
+        "age": "आयु",
+        "gender": "लिंग",
+        "caste": "जाति / श्रेणी",
+        "annualIncome": "वार्षिक पारिवारिक आय (रु. में)",
+        "occupation": "व्यवसाय",
+        "maritalStatus": "वैवाहिक स्थिति",
+        "disability": "क्या आपको कोई विकलांगता है?",
+        "disabilityPercentage": "विकलांगता प्रतिशत (%)",
+        "education": "उच्चतम शिक्षा योग्यता",
+        "documents": "दस्तावेज जो आपके पास वर्तमान में हैं",
+        "minority": "क्या आप अल्पसंख्यक समुदाय से हैं?",
+        "placeholders": {
+            "fullName": "अपना पूरा नाम दर्ज करें"
+        }
+    },
+    "result": {
+        "title": "पात्र योजनाएं",
+        "label": "आपके परिणाम",
+        "applyNow": "अभी आवेदन करें",
+        "department": "विभाग",
+        "benefitAmount": "लाभ राशि",
+        "benefitDescription": "लाभ विवरण",
+        "processMode": "प्रक्रिया मोड",
+        "documentsRequired": "आवश्यक दस्तावेज"
+    },
+    "footer": {
+        "innovators": "द इनोवेटर्स बॉयज़"
+    }
+}

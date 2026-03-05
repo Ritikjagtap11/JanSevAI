@@ -1,0 +1,65 @@
+@import "tailwindcss";
+
+@theme {
+  --color-dark: #443F3F;
+  --color-rose: #A37C7C;
+  --color-rose-light: #C4A0A0;
+  --color-bg-subtle: #F7F2F2;
+
+  --font-playfair: "Playfair Display", serif;
+  --font-dmsans: "DM Sans", sans-serif;
+  --font-tiro: "Tiro Devanagari Hindi", serif;
+
+  --tracking-widest: 0.18em;
+  --tracking-relaxed: 0.06em;
+  --tracking-button: 0.05em;
+}
+
+:root {
+  font-family: 'DM Sans', system-ui, -apple-system, sans-serif;
+  background-color: #F7F2F2;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Playfair Display', serif;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  color: #443F3F;
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #F7F2F2;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #A37C7C;
+  border-radius: 3px;
+}
+
+/* Hindi/Marathi font class */
+.font-regional {
+  font-family: 'Tiro Devanagari Hindi', serif;
+}
+
+/* Transitions */
+.transition-250 {
+  transition: all 0.25s ease;
+}
+
+.transition-650 {
+  transition: all 0.65s ease;
+}
