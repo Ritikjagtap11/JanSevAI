@@ -433,7 +433,7 @@ OLLAMA API (Node.js example structure):
   const systemPrompt = fs.readFileSync("ai_prompt.txt", "utf-8");
 
   const request = {
-    model: "llama3.1:8b",
+    model: "llama3.2:latest",
     stream: false,
     format: "json",
     options: { temperature: 0, num_ctx: 8192 },
